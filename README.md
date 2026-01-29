@@ -13,8 +13,7 @@ A modern weather application built with React and Vite. Get current weather, hou
 
 ## Screenshots
 
-<!-- Add screenshots here if available -->
-<!-- ![Screenshot](public/screenshot.png) -->
+![Screenshot](public/preview.png)
 
 ## Getting Started
 
@@ -25,31 +24,31 @@ A modern weather application built with React and Vite. Get current weather, hou
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/codewithharsh007/weather-app.git
    cd weather-app
    ```
 
-2. Install dependencies:
+2. **Install dependencies:**
    ```sh
    npm install
    # or
    yarn install
    ```
 
-3. Set up your weather API key:
+3. **Set up your weather API key:**
    - Open `src/api/weatherAPI.js`
    - Replace the placeholder with your API key
 
-4. Start the development server:
+4. **Start the development server:**
    ```sh
    npm run dev
    # or
    yarn dev
    ```
 
-5. Open [http://localhost:5173](http://localhost:5173) in your browser.
+5. **Open [http://localhost:5173](http://localhost:5173) in your browser.**
 
 ## Project Structure
 
